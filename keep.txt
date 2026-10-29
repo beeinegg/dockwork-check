@@ -1,3 +1,4 @@
 line one
-line two
+line two changed
 line three
+line four
